@@ -10,25 +10,26 @@ The aim is to make predictions on the survival outcome of passengers. Since this
 2. Pandas
 3. Matplotib
 4. Seaborn
+5. from sklearn.model_selection import train_test_split
+6. from sklearn import metrics
 
 **Pre-processing operations**
 
-Checking for missing values in dataset
-Remove the records which has values 0-100+ in the age group column which would make the dataset unclear for analysis
-Dropping unnecessary columns
-Creating categorical variable for traveling alone
+1. Checking for missing values in dataset
+2. Remove the records which has values 0-100+ in the age group column which would make the dataset unclear for analysis
+3. Dropping unnecessary columns
+4. Creating categorical variable for traveling alone
 
 **Exploratory Data Analysis**
-Dataset shape
-Dataset info
-Dataset description
-Analysis of all the features in the dataset
 
-**Model Building**
+1. Dataset shape
+2. Dataset info
+3. Dataset description
+4. Analysis of all the features in the dataset
 
-Logistic Regression 
+**Model Building** : Logistic Regression 
 
 **Model Evaluation**
 
-Confusion matrix
-Classification report
+1. Confusion matrix
+2. Classification report
