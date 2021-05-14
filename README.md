@@ -6,10 +6,10 @@ The aim is to make predictions on the survival outcome of passengers. Since this
 
 **Python Libraries used**
 
-NumPy
-Pandas
-Matplotib
-Seaborn
+1. NumPy
+2. Pandas
+3. Matplotib
+4. Seaborn
 
 **Pre-processing operations**
 
